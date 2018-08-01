@@ -1,0 +1,4 @@
+dependencies {
+    compile 'org.glassfish.main.external:jmxremote_optional-repackaged:5.0'
+	// alternative: compile 'org.glassfish.external:opendmk_jmxremote_optional_jar:1.0-b01-ea'
+}
